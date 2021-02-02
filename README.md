@@ -88,7 +88,7 @@ What are the payment methods available?
 
 20. - Security Features
 
-- SSL certificate: Establishes secure connectivity between a user and the website. Look for HTTPS and a green lock in the address bar before trusting an online store with your information. Select an SSL certificate vendor with name recognition.
+- SSL certificate: Establishes secure connectivity between a user and the website.
 
 - Two-factor authentication: Adds an extra layer of security by requiring a username/password and a system-generated code sent via email or text.
 

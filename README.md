@@ -1,5 +1,5 @@
 # mindovermattercorp
-eCommerce Website mainly focused on technology and cloud sharing products. This project is mainly for my portfolio to showcase my database, web developement and nodejs skills. 
+eCommerce Website mainly focused on technological advances, AI, and cloud sharing services. This project is mainly for my portfolio to showcase my database, web developement and nodejs skills. 
 
 TECHNOLOGIES USED:
 

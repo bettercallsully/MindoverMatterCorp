@@ -28,32 +28,32 @@ Optional: Shopify,
 FEATURES LIST & DETAILED PRODUCT SPECIFICATION:
 GITHUB README: IMPORTANT
 1. Landing Page/Home
-Create anchors and logos for the Home Page, Contact Page, Products Page, Social Media Page, add a toolbar for functionality 
+- Create anchors and logos for the Home Page, Contact Page, Products Page, Social Media Page, add a toolbar for functionality 
 
 2. Tagline
-You need to create a sound tagline as it covers everything from the image of your business to the summary of your products and services.
+- You need to create a sound tagline as it covers everything from the image of your business to the summary of your products and services.
 Represents the business's vision and mission
 
 3. Toolbar for navigation
-User-friendly, easy to navigate
+- User-friendly, easy to navigate
 
 4. Image Slider
-Showcasing services and new products, testimonials, reviews, blog-posts
+- Showcasing services and new products, testimonials, reviews, blog-posts
 
 5. Reviews/Testimonials 
-Complete the main content addition with reviews and testimonials
+- Complete the main content addition with reviews and testimonials
 
 6. Shopping Cart Feature
-Implement shopping cart feature, check out, save for later, options
+- Implement shopping cart feature, check out, save for later, options
 
 7. Optional
-Shopify Themes
+- Shopify Themes
 
 8. Add Content*
-Add more content, images, videos, logos, etc. *Site Clean Up*
+- Add more content, images, videos, logos, etc. *Site Clean Up*
 
 9. Mobile-friendly/Responsive Website
-Add the needed Bootstrap code to make the site mobile-friendly and responsive
+- Add the needed Bootstrap code to make the site mobile-friendly and responsive
 
 10. Optional: Interlinking
 Redirect customers and users to older or newer pages of the site

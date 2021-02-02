@@ -19,6 +19,10 @@ TECHNOLOGIES USED:
 
 8. PUG
 
+9. ExpressJS
+
+10. BootStrap
+
 Optional: Shopify,
 
 FEATURES LIST & DETAILED PRODUCT SPECIFICATION:

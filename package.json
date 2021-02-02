@@ -1,5 +1,37 @@
 {
   "dependencies": {
-    "bootstrap": "^5.0.0-beta1"
-  }
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.0-beta1",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.14",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "nodejs": "^0.0.0",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.0"
+  },
+  "name": "mindovermattr",
+  "description": "eCommerce Website mainly focused on technological advances, AI, and cloud sharing services. This project is mainly for my portfolio to showcase my database, web developement and nodejs skills.",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "devDependencies": {
+    "uglify-js": "^3.12.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bettercallsully/mindovermattercorp.git"
+  },
+  "keywords": [
+    "mindovermatter"
+  ],
+  "author": "Solomon El-kelani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bettercallsully/mindovermattercorp/issues"
+  },
+  "homepage": "https://github.com/bettercallsully/mindovermattercorp#readme"
 }

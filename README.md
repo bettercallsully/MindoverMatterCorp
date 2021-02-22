@@ -38,8 +38,7 @@ FEATURES LIST & DETAILED PRODUCT SPECIFICATION:
 - Create anchors and logos for the Home Page, Contact Page, Products Page, Social Media Page, add a toolbar for functionality 
 
 2. Tagline
-- Create a sound tagline as it covers everything from the image of your business to the summary of your products and services.
-Represents the business's vision and mission
+- Create a tagline, describe the image of your business to the summary of your products and services.
 
 3. Toolbar for navigation
 - User-friendly, easy to navigate

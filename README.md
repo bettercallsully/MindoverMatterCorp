@@ -23,15 +23,22 @@ TECHNOLOGIES USED:
 
 10. BootStrap
 
+11. ReactJS
+
 Optional: Shopify,
 
 FEATURES LIST & DETAILED PRODUCT SPECIFICATION:
-GITHUB README: IMPORTANT
+
+*Last Minute Added Features*
++Login Screen
+• Log in screen built in ReactJS, using Auth0 authentication.
+• Connect the authentication to a SQL database to log user information and subscription data.
+
 1. Landing Page/Home
 - Create anchors and logos for the Home Page, Contact Page, Products Page, Social Media Page, add a toolbar for functionality 
 
 2. Tagline
-- You need to create a sound tagline as it covers everything from the image of your business to the summary of your products and services.
+- Create a sound tagline as it covers everything from the image of your business to the summary of your products and services.
 Represents the business's vision and mission
 
 3. Toolbar for navigation

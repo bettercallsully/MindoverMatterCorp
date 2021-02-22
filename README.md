@@ -29,8 +29,8 @@ Optional: Shopify,
 
 FEATURES LIST & DETAILED PRODUCT SPECIFICATION:
 
-*Last Minute Added Features*
-+Login Screen
+Last Minute Added Features
+Login Screen
 • Log in screen built in ReactJS, using Auth0 authentication.
 • Connect the authentication to a SQL database to log user information and subscription data.
 

@@ -204,11 +204,13 @@ html {
     padding: 15px 35px;
     text-decoration: none;
     transition: all 150ms ease-in-out;
+    background-color: #48aaff;
+    color: #fff;
   }
   
   .pricing-button:hover,
   .pricing-button:focus {
-    background-color: #e1f1ff;
+    background-color: #54cdd1;
   }
   
   .pricing-button.is-featured {
@@ -218,8 +220,5 @@ html {
   
   .pricing-button.is-featured:hover,
   .pricing-button.is-featured:active {
-    background-color: #269aff;
+    background-color: #54cdd1;
   }
-  Run Pen 
-  
-  Resources

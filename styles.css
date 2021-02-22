@@ -40,14 +40,14 @@ body {
 h1 {
     margin: 0, auto;
     text-align: center;
-    background: #3bc8f3;
+    background: #55c5e7;
     color: #ffffff;
     background-position: 2200px,; 
     border-radius: 100px;
     font-family: 'Quicksand', serif ;
     width:500px;
     margin: 0 auto;
-    background: rgb(46, 207, 207);
+    background: rgb(34, 136, 253);
     text-align: center;
 }
 

@@ -2,6 +2,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "bootstrap": "^5.0.0-beta2",
+    "demon": "^1.4.4",
     "express": "^4.17.1",
     "express-generator": "^4.16.1",
     "http-server": "^0.12.3",
@@ -14,15 +15,15 @@
     "pug": "^3.0.0"
   },
   "name": "mindovermattr",
-  "description": "eCommerce Website mainly focused on technological advances, AI, and cloud sharing services. This project is mainly for my portfolio to showcase my database, web developement and nodejs skills.",
+  "description": "eCommerce Website mainly focused on technological advances, AI, and cloud sharing services.",
   "version": "1.0.0",
-  "main": "scripts.js",
+  "main": "app.js",
   "devDependencies": {
     "uglify-js": "^3.12.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "nodemon"
   },
   "repository": {
     "type": "git",

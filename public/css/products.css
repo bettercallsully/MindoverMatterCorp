@@ -1,6 +1,7 @@
 body {
-  background-color: #100e17;
-  font-family: 'Open Sans', sans-serif;
+  background-color:  rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(201,98,241,1) 64%, rgba(0,212,255,1) 100%);
+  font-family: 'Quicksand', sans-serif;
 }
 
 .container {

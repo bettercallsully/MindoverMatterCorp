@@ -10,6 +10,7 @@ const url = 'mongodb://localhost:27017';
 //Database Name
 const dbName = 'dataCollections'; 
 
+
 //Mongo Client
 const client = new MongoClient(url);
 

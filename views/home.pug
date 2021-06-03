@@ -1,0 +1,48 @@
+doctype html
+head
+| link(rel=&apos;stylesheet&apos;, href=&quot;/public/css/styles.css&quot;)
+| script(src=&quot;/js/app.js&quot;)
+  link(rel='shortcut icon' type='image/x-icon' href='/public/img/logo.png')
+  link(rel='preconnect' href='https://fonts.gstatic.com')
+  link(href='https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap' rel='stylesheet')
+  link(type='text/css' rel='stylesheet' href='styles.css')
+  link(rel='preconnect' href='https://fonts.gstatic.com')
+  link(href='https://fonts.googleapis.com/css2?family=Prata&display=swap' rel='stylesheet')
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title MindovrMatter Corp.
+// Background Video
+video#video(playsinline='' autoplay='' muted='' loop='')
+  source(src='/assets/backroundvids/cloudvid2.mp4' type='video/mp4')
+header.viewport-header
+  span
+    h1 MindoverMattr Corp
+    // Pricing Chart/Services
+    .background
+      .container
+        .panel.pricing-table
+          .pricing-plan
+            img.pricing-img(src='https://s22.postimg.cc/8mv5gn7w1/paper-plane.png' alt='')
+            h2.pricing-header Personal
+            ul.pricing-features
+              li.pricing-features-item Custom domains VPN included
+              li.pricing-features-item Access to Dedicated leading technology for individuals
+            span.pricing-price Free
+            a.pricing-button(href='#/') Sign up
+          .pricing-plan
+            img.pricing-img(src='https://s28.postimg.cc/ju5bnc3x9/plane.png' alt='')
+            h2.pricing-header Small team
+            ul.pricing-features
+              li.pricing-features-item Secure network that never sleeps
+              li.pricing-features-item Multiple workers for more powerful apps
+            span.pricing-price $150
+            a.pricing-button.is-featured(href='#/') Free trial
+          .pricing-plan
+            img.pricing-img(src='https://s21.postimg.cc/tpm0cge4n/space-ship.png' alt='')
+            h2.pricing-header Enterprise
+            ul.pricing-features
+              li.pricing-features-item Secure technological infrastructure
+              li.pricing-features-item Simple horizontal scalability
+            span.pricing-price $400
+            a.pricing-button(href='#/') Free trial
+            a(href='')

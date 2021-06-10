@@ -1,48 +1,37 @@
 const express = require('express');
+const mysql = require('mysql');
 const app = express();
-const port = 5500;
-const MongoClient = require('mongodb').MongoClient
-const assert = require('assert');
+const userID ='Sully' 
+const password = 'root'
 
-//MongoDB Connection Link
-const url = 'mongodb://localhost:27017'; 
+app.set('view-engine', 'ejs')
 
-//Database Name
-const dbName = 'dataCollections'; 
+const connect = mysql.createConnection({
+  //properties
+  host: 'localhost',
+  userID:'root',
+  password:'password',
+  database: 'sampleDB',
+})
 
-
-//Mongo Client
-const client = new MongoClient(url);
-
-//Connection method to connect to the server
-client.connect(function(err) {
-  assert.strictEqual(null, err); 
-  console.log("Connected successfully to server");
-
-  const db = client.db(dataCollections);
-
-  client.close(); 
-
+connection.connect(function(error) {
+  if(!!error) {
+    console.log('Error');
+  } else {
+    console.log('Connected')
+  }
 });
 
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
-  app.get('/', (req, res) => {
-    MongoClient.connect(url, function(err, client) {
-      const db = client.db('#');
-      const collection = db.dataCollections('#');
-  
-      collection.find({}).toArray((error, documents) => {
-        client.close();
-        res.render('index', { documents: documents });
-      });
-    });
-  });
-});
+app.get("/", (req, res) => {
+  res.render('login.ejs', {name: 'Sully'})
+}),
 
-app.set('view engine', 'pug');
-app.get('/', (req, res) => {
-  res.render('home', {})
-});
+app.get("views/register.ejs", (req, res) => {
 
+}),
 
+app.get("/views/index.ejs", (req, res) => {
+
+}),
+
+app.listen('3000')

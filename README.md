@@ -1,6 +1,8 @@
 # mindovermattercorp
 eCommerce Website mainly focused on technological advances, AI, and cloud sharing services. This project is mainly for my portfolio to showcase my database, web developement and nodejs skills. 
 
+[![mindovermatterhome.png](https://i.postimg.cc/9FCpnKfH/mindovermatterhome.png)](https://postimg.cc/G9gGBMYX)
+
 TECHNOLOGIES USED:
 
 1. HTML

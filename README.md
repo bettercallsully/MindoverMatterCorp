@@ -1,6 +1,8 @@
 # mindovermattercorp
 eCommerce Website mainly focused on technological advances, AI, and cloud sharing services. 
 
+![Screenshot](mindovermatterhome.png)
+
 TECHNOLOGIES USED:
 
 1. HTML

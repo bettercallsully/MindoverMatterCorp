@@ -1,6 +1,5 @@
 <html>
 <head>
-  <script src="app.js" async></script>
   <link rel="shortcut icon" type="image/x-icon" href="/public/img/logo.png">
   <link rel="stylesheet" href="public/css/login.css">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
@@ -13,13 +12,21 @@
   <div class="main">
     <p class="sign" align="center">Sign in please</p>
     <form class="form1">
-      <input class="username " type="text" align="center" placeholder="Username">
-      <input class="pass" type="password" align="center" placeholder="Password">
+      <input type="text" id="username" align="center" placeholder="Username">
+      <input type="password" type="password" align="center" placeholder="Password">
       <a class="submit" align="center">Sign in</a>
       <p class="forgot" align="center"><a href="#">Forgot your password? Click here</p>
-            
-                
     </div>
+    <script>
+      const form = document.getElementByClassName("form1")
+      form.addEventListener('submit', registerUser)
+      funtion; registerUser(event) ;{
+        event.preventDefault()
+        const username = document.getElementById('username')
+        const password = document.getElementById('password')
+
+      }
+    </script>
      
 </body>
 

@@ -1,6 +1,6 @@
 body {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(201,98,241,1) 64%, rgba(0,212,255,1) 100%);
+    background: rgb(249,53,53);
+    background: linear-gradient(90deg, rgba(249,53,53,1) 0%, rgba(64,194,155,1) 57%, rgba(0,212,255,1) 100%);
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -15,7 +15,7 @@ body {
 
 .sign {
     padding-top: 40px;
-    color: #8C55AA;
+    color: #40c29b;
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
     font-size: 23px;
@@ -75,7 +75,7 @@ font-family: 'Quicksand', sans-serif;
   cursor: pointer;
     border-radius: 5em;
     color: #fff;
-    background: linear-gradient(to right, #9C27B0, #E040FB);
+    background: #40c29b;
     border: 0;
     padding-left: 40px;
     padding-right: 40px;
@@ -89,13 +89,13 @@ font-family: 'Quicksand', sans-serif;
 
 .forgot {
     text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
-    color: #d31df3;
+    color: #40c29b;
     padding-top: 15px;
 }
 
 a {
     text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
-    color: #E1BEE7;
+    color: #40c29b;
     text-decoration: none
 }
 

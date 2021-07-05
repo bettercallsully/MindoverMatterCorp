@@ -1,6 +1,6 @@
 body {
-  background-color:  rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(201,98,241,1) 64%, rgba(0,212,255,1) 100%);
+  background: rgb(249,53,53);
+  background: linear-gradient(90deg, rgba(249,53,53,1) 0%, rgba(64,194,155,1) 57%, rgba(0,212,255,1) 100%);
   font-family: 'Quicksand', sans-serif;
 }
 
@@ -17,7 +17,7 @@ body {
   display: flex;
   height: 280px;
   width: 200px;
-  background-color: #4f85eb;
+  background-color: #40c29b;
   border-radius: 10px;
   box-shadow: -1rem 0 3rem #000;
 /*   margin-left: -50px; */
